@@ -25,7 +25,7 @@
 | :--- | :--- | :--- |
 | **[Roguelike Brick Breaker](https://github.com/Akito-Sato-jp/rogue-brick-breaker)** | **戦略的ビルド構築ブロック崩し**<br>ランダムな強化選択による「ローグライク」なゲーム性を実現。 | クラス継承 / 衝突判定 |
 | **[Boids Sheep Herder](https://github.com/Akito-Sato-jp/boids-sheep-herder)** | **群れアルゴリズムの実装**<br>3つの基本ルール（分離・整列・結合）を用いた生物的な動きを再現。 | ベクトル演算 / Boids |
-| **[Hakoiri Musume](https://github.com/Akito-Sato-jp/hakoiri-musume)** | **スライドパズルのUI/ロジック**<br>経路走査による正確な衝突判定とスムーズな操作感を実装。 | 座標計算 / パス判定 |
+| **[Hakoiri-Musume](https://github.com/Akito-Sato-jp/hakoiri-musume)** | **スライドパズルのUI/ロジック**<br>経路走査による正確な衝突判定とスムーズな操作感を実装。 | 座標計算 / パス判定 |
 
 ---
 
