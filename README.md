@@ -1,23 +1,34 @@
 # Hi, I'm Akito Sato 👋
 
 仙台を拠点に活動している、Pythonエンジニア志望の学習者です。
-「自走力（自分で調べて解決する力）」を大切に、ゲーム開発やITスキルの習得に励んでいます。
+「自走力（自分で調べて解決する力）」を大切に、ゲーム開発を通じて複雑なロジックの実装に挑戦しています。
+
+---
 
 ## 🚀 自己紹介
 - 📍 **Location:** 仙台市 (Sendai, Japan)
-- 🎓 **Education:** ITスクールにて1.5年間のプログラムを受講中（皆勤賞 100%）
-- 📜 **Certification:** 基本情報技術者試験 合格 / MOS Excel 勉強中
-- 🛠 **Focus:** Python / ゲーム開発 / アルゴリズム
+- 🎓 **Education:** ITスクールにて1.5年間のプログラムを受講中（**皆勤賞 100% 継続中**）
+- 📜 **Certification:** **基本情報技術者試験 合格** / MOS Excel 勉強中
+- 🛠 **Focus:** Python / アルゴリズム実装 / オブジェクト指向開発
 
-## 🎮 公開中のプロジェクト
-### 1. [Rogue-lite Brick Breaker](https://github.com/Akito-Sato-jp/rogue-brick-breaker)
-- Python/tkinterで制作した、パワーアップ選択要素のあるブロック崩し。
-- クラス継承や衝突判定のロジックを工夫しました。
+## 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### 2. [Boids-based Sheep Herder](https://github.com/Akito-Sato-jp/boids-sheep-herder)
-- ボイド（群れ）アルゴリズムを実装した、羊追いアクションゲーム。
-- ベクトル演算を用いたリアルな群れの動きが見所です。
+---
 
-## ✉️ 連絡先
-- GitHubのIssueやメッセージ、またはチャットツールにてご連絡ください。
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+## 🎮 Featured Projects
+
+| Project | Description | Key Tech |
+| :--- | :--- | :--- |
+| **[Roguelike Brick Breaker](https://github.com/Akito-Sato-jp/rogue-brick-breaker)** | **戦略的ビルド構築ブロック崩し**<br>ランダムな強化選択による「ローグライク」なゲーム性を実現。 | クラス継承 / 衝突判定 |
+| **[Boids Sheep Herder](https://github.com/Akito-Sato-jp/boids-sheep-herder)** | **群れアルゴリズムの実装**<br>3つの基本ルール（分離・整列・結合）を用いた生物的な動きを再現。 | ベクトル演算 / Boids |
+| **[Hakoiri Musume](https://github.com/Akito-Sato-jp/hakoiri-musume)** | **スライドパズルのUI/ロジック**<br>経路走査による正確な衝突判定とスムーズな操作感を実装。 | 座標計算 / パス判定 |
+
+---
+
+## ✉️ Contact
+- お気軽にGitHubのIssueやメッセージ、またはチャットツールにてご連絡ください。
+- 目標：技術を楽しみながら、実務で貢献できるエンジニアになること。
