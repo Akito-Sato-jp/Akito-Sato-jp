@@ -8,7 +8,7 @@
 ## 🚀 自己紹介
 - 📍 **Location:** 仙台市 (Sendai, Japan)
 - 🎓 **Education:** ITスクールにて1.5年間のプログラムを受講中（皆勤賞 100% 継続中）
-- 🤖 **Development Style:** **AI（Gemini/GitHub Copilot）を積極的に活用**したモダンな開発スタイルを取り入れています。AIによる提案を鵜呑みにせず、自身でロジックを検証し、理解を深めるプロセスを大切にしています。
+- 🤖 **Development Style:** AI（Gemini/GitHub Copilot）を積極的に活用したモダンな開発スタイルを取り入れています。AIによる提案を鵜呑みにせず、自身でロジックを検証し、理解を深めるプロセスを大切にしています。
 - 📜 **Certification:** 基本情報技術者試験 合格
 - 
 ## 🛠 Skills & Tools
