@@ -7,17 +7,15 @@
 
 ## 🚀 自己紹介
 - 📍 **Location:** 仙台市 (Sendai, Japan)
-- 🎓 **Education:** ITスクールにて1.5年間のプログラムを受講中（**皆勤賞 100% 継続中**）
-- 📜 **Certification:** **基本情報技術者試験 合格** / MOS Excel 勉強中
-- 🛠 **Focus:** Python / アルゴリズム実装 / オブジェクト指向開発
-
+- 🎓 **Education:** ITスクールにて1.5年間のプログラムを受講中（皆勤賞 100% 継続中）
+- 🤖 **Development Style:** **AI（Gemini/GitHub Copilot）を積極的に活用**したモダンな開発スタイルを取り入れています。AIによる提案を鵜呑みにせず、自身でロジックを検証し、理解を深めるプロセスを大切にしています。
+- 📜 **Certification:** 基本情報技術者試験 合格
+- 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-AI Utilization: 開発効率向上のため、Gemini等のAIをペアプログラミングのパートナーとして活用しています。
+![AI-Assisted](https://img.shields.io/badge/AI--Assisted-Gemini-orange?style=flat&logo=google-gemini)
 
+- **AI Utilization:** 開発効率向上のため、Gemini等の生成AIをペアプログラミングのパートナーとして活用。アルゴリズムの壁打ち、複雑なエラーのデバッグ、英文ドキュメント作成に役立てています。
 ---
 
 ## 🎮 Featured Projects
