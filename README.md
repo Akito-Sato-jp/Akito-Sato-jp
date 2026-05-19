@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AI-Assisted](https://img.shields.io/badge/AI--Assisted-Gemini-orange?style=flat&logo=google-gemini)
 
-- **AI Utilization:** 開発効率向上のため、Gemini等の生成AIをペアプログラミングのパートナーとして活用。アルゴリズムの壁打ち、複雑なエラーのデバッグ、英文ドキュメント作成に役立てています。
+- **AI Utilization:** 開発効率向上のため、Gemini等の生成AIをペアプログラミングのパートナーとして活用。コードの作成、複雑なエラーのデバッグに役立てています。
 ---
 
 ## 🎮 Featured Projects
